@@ -15,9 +15,9 @@ Hi, I'm Suhani. You might recognize me as my parent's child.
 
 | Rank | Languages |
 |-----:|-----------|
-|     1|C|
-|     2|Python|
-|     3|Java|
+|     1|C          |
+|     2|Python     |
+|     3|Java       |
 
 </details open>
 
