@@ -8,7 +8,7 @@
 
 <!-- TO DO: add more details about me later -->
 
-Hi, I'm Suhani. You might recognize me as GitHub's mascot.
+Hi, I'm Suhani. You might recognize me as my parent's child.
 
 <details open>
 <summary>My top Languages</summary>
